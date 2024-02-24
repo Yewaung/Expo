@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "facaba3a-6d2e-479d-97b6-6d4dfba796f0"
+      }
+    },
+    "owner": "yewaung"
   }
 }
